@@ -1,0 +1,21 @@
+.main div{
+    border:1px solid black;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    background-color: transparent;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+button{
+    margin: 4px 4px 4px 4px;
+}
